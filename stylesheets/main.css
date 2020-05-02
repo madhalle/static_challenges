@@ -1,0 +1,57 @@
+html
+{
+  background-image: url(./images/1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+body
+{
+  font-size: 16;
+  font-family: sans-serif;
+  background-color: black;
+
+}
+
+
+div
+{
+  background: black;
+  opacity: 0.5;
+}
+h1
+{
+  text-align: left;
+  color: white;
+  padding: 14px 16px;
+  background-color: #333;
+}
+
+h2
+{
+  color:white;
+}
+nav
+{
+  background-color: orange;
+  text-align: center;
+}
+ul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li
+{
+  display: inline;
+  padding: 14px 30px;
+  color: white;
+}
+
+p
+{
+  color: white;
+}
